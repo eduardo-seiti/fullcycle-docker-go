@@ -1,0 +1,1 @@
+module github.com/eduardo-seiti/fullcycle-docker-go
