@@ -1,1 +1,1 @@
-# fullcycle-docker-go
+# docker run eduardoseiti/codeeducation
